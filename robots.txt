@@ -1,0 +1,11 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://okinerer.github.io/sitemap.html.gz
+Sitemap: https://okinerer.github.io/app/sitemap.html.gz
+Sitemap: https://okinerer.github.io/assets/sitemap.html.gz
+Sitemap: https://okinerer.github.io/css/sitemap.html.gz
+Sitemap: https://okinerer.github.io/data/sitemap.html.gz
+Sitemap: https://okinerer.github.io/includes/sitemap.html.gz
+Sitemap: https://okinerer.github.io/item/sitemap.html.gz
+Sitemap: https://okinerer.github.io/src/sitemap.html.gz
